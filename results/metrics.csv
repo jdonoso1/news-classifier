@@ -1,0 +1,5 @@
+,accuracy,macro_f1
+Logistic Regression (unigrams),0.8194,0.8175
+LinearSVC (unigrams),0.8459,0.8438
+Logistic Regression (bigrams),0.8061,0.805
+LinearSVC (bigrams),0.8422,0.8412
